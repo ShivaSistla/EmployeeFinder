@@ -21,7 +21,7 @@ var employeesList = [
   },
   {
     "name":"Ramesh",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://rkuruba.github.io/Basic-Portfolio/assets/images/Ramesh_Marathon.png",
     "scores":[
         5,
         4,

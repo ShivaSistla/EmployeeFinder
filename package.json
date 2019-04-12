@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rkuruba/EmployeeFinder/issues"
   },
-  "homepage": "https://github.com/rkuruba/EmployeeFinder#readme"
+  "homepage": "https://github.com/rkuruba/EmployeeFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
